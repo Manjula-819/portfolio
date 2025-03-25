@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website! This cosmic-themed portfolio showcases my skills, projects, and journey as a developer. Built with HTML, CSS, and JavaScript, it features a starry background, custom cursor effects, and a marquee-style project carousel.
 
 ## 🚀 Live Demo
-Check out the live portfolio here: [manjula-819.github.io/portfolio/](https://manjula-819.github.io/portfolio/)
+Check out the live portfolio here:file:///C:/Users/manju/OneDrive/Desktop/fu2.html
 
 ## ✨ Features
 - **Cosmic Theme:** A space-inspired design with a starry background and glowing effects.
@@ -24,13 +24,11 @@ Check out the live portfolio here: [manjula-819.github.io/portfolio/](https://ma
 - **CSS3:** For styling, animations, and the cosmic theme (includes marquee effects, glowing shadows, and more).
 - **JavaScript:** For interactivity (custom cursor, smoke effect, chat functionality, and smooth scrolling).
 - **Font Awesome:** For icons in the project carousel arrows.
-- **GitHub Pages:** For hosting the live demo.
-
-## 📂 Project Structure
+- **project Structure
 - `index.html`: The main file containing all HTML, CSS (in a `<style>` tag), and JavaScript (in a `<script>` tag).
 - (Optional) `portfolio-screenshot.jpg`: A screenshot of the portfolio (if you’ve added one for the "My Portfolio Website" project card).
 
 ## 🖥️ How to View Locally
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/Manjula-819/portfolio.git
+
+  
