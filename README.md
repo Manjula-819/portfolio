@@ -3,7 +3,7 @@
 Welcome to my personal portfolio website! This cosmic-themed portfolio showcases my skills, projects, and journey as a developer. Built with HTML, CSS, and JavaScript, it features a starry background, custom cursor effects, and a marquee-style project carousel.
 
 ## 🚀 Live Demo
-Check out the live portfolio here https://manjula-819.github.io/portfolio/
+Check out the live portfolio here  https://manjula-819.github.io/portfolioo-m/
 
 ## ✨ Features
 - **Cosmic Theme:** A space-inspired design with a starry background and glowing effects.
