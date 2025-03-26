@@ -3,15 +3,13 @@
 Welcome to my personal portfolio website! This cosmic-themed portfolio showcases my skills, projects, and journey as a developer. Built with HTML, CSS, and JavaScript, it features a starry background, custom cursor effects, and a marquee-style project carousel.
 
 ## 🚀 Live Demo
-Check out the live portfolio here:file:///C:/Users/manju/OneDrive/Desktop/fu2.html
+Check out the live portfolio here https://manjula-819.github.io/portfolio/
 
 ## ✨ Features
 - **Cosmic Theme:** A space-inspired design with a starry background and glowing effects.
 - **Custom Cursor:** A magenta-pink gradient cursor with a trailing smoke effect.
 - **Project Carousel:** Square project cards (`320px x 320px`) with a marquee effect for smooth scrolling, including:
   - Plagiarism Checker Website
-  - SAFAA Dashboard
-  - Task Manager Redesign
   - This Portfolio Website (self-referential project)
 - **Skills Marquee:** A scrolling list of skills with emojis (React, Figma, JavaScript, etc.).
 - **Education Timeline:** A cosmic journey of my academic background.
@@ -28,7 +26,5 @@ Check out the live portfolio here:file:///C:/Users/manju/OneDrive/Desktop/fu2.ht
 - `index.html`: The main file containing all HTML, CSS (in a `<style>` tag), and JavaScript (in a `<script>` tag).
 - (Optional) `portfolio-screenshot.jpg`: A screenshot of the portfolio (if you’ve added one for the "My Portfolio Website" project card).
 
-## 🖥️ How to View Locally
-1. Clone the repository:
 
   
